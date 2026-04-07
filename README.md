@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wayne</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  xaweiouo@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
